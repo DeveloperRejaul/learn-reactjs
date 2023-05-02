@@ -1,0 +1,10 @@
+//For web
+npx create-react-app my-app
+cd my-app
+npm start
+
+
+//For Mobile
+npx react-native init myApp
+
+npx react-native run-android
